@@ -1,0 +1,19 @@
+* {
+  color: #dddddd;
+  text-decoration: none;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #004963;
+  height: 100vh;
+}
+
+h1,
+h2 {
+  color: #0beb2d;
+}
+
+b {
+  color: #9ca8e7;
+}
